@@ -1,0 +1,7 @@
+transformers
+torch
+accelerate
+openai-whisper
+google-cloud-dialogflow
+gtts
+streamlit
